@@ -13,7 +13,8 @@ for(String name :names){
 
 }
 System.out.println("End of Names");
-
+//go go man
+System.out.println("Ekkklo");
 }
 
 public static void main(String[] args){
