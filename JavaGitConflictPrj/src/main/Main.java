@@ -9,6 +9,7 @@ public void printNames(){
 for(String name :names){
 
 			System.out.println(name);
+			System.out.println("Skks");
 
 }
 System.out.println("End of Names");
