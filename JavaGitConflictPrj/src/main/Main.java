@@ -9,15 +9,13 @@ public void printNames(){
 for(String name :names){
 
 			System.out.println(name);
-			System.out.println("[[");
 			System.out.println("Skks");
 
 }
 System.out.println("End of Names");
-//try this one
-System.out.println("End of Names");
-//go go man
-System.out.println("Ekkklo");
+//Change one
+System.out.println("Change one");
+
 }
 
 public static void main(String[] args){
