@@ -5,7 +5,7 @@ public class Main {
 public String[] names ={"adam","abel","miras"};
 
 public void printNames(){
-
+//for loop
 for(String name :names){
 
 			System.out.println(name);
@@ -15,7 +15,7 @@ for(String name :names){
 System.out.println("End of Names");
 //Change one
 //three
-System.out.println("Change one");
+System.out.println("Change one sums up all");
 
 }
 
